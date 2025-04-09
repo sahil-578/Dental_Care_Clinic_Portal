@@ -53,3 +53,6 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 
+## Check out the video here
+
+https://github.com/user-attachments/assets/d0471b67-0326-4178-816d-6ff09c8d80dc
